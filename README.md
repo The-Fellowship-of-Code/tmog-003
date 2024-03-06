@@ -35,3 +35,7 @@ Given an integer array nums, find the subarray with the largest sum, and return 
 ## Extra
 Here you can find the spice if you want to show off, with a slightly more difficult challenge.
 - If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle.
+
+## Credits
+
+This exercise has been extracted from the [LeetCode](https://leetcode.com/problems/maximum-subarray) website. Don't hesitate, join and practice in this great community.
